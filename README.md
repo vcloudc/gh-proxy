@@ -2,7 +2,7 @@
 
 ## 简介
 
-github release、archive以及项目文件的加速项目，支持clone，基于Cloudflare Workers无服务器版本
+基于Cloudflare Workers无服务器版本,github release、archive以及项目文件的加速项目，支持clone
 
 ## 演示
 
