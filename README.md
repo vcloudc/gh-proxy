@@ -14,9 +14,9 @@ github release、archive以及项目文件的加速项目，支持clone，基于
 
 ## 使用
 
-直接在copy出来的url前加`https://www.969686.xyz/gh-proxy/`即可
+复制文件链接前加`https://www.969686.xyz/gh-proxy/`即可
 
-也可以直接访问，在input输入
+也可以直接访问页面，在输入框中输入原文件地址
 
 ***大量使用请自行部署，以上域名仅为演示使用。***
 
