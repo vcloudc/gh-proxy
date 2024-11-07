@@ -6,7 +6,7 @@ github release、archive以及项目文件的加速项目，支持clone，基于
 
 ## 演示
 
-[https://vcloudc.github.io/gh-proxy/](https://vcloudc.github.io/gh-proxy/)
+[https://www.969686.xyz/gh-proxy/](https://www.969686.xyz/gh-proxy/)
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
@@ -14,15 +14,11 @@ github release、archive以及项目文件的加速项目，支持clone，基于
 
 ## 使用
 
-直接在copy出来的url前加`https://vcloudc.github.io/gh-proxy/`即可
+直接在copy出来的url前加`https://www.969686.xyz/gh-proxy/`即可
 
 也可以直接访问，在input输入
 
 ***大量使用请自行部署，以上域名仅为演示使用。***
-
-访问私有仓库可以通过
-
-`git clone https://user:TOKEN@ghproxy.com/https://github.com/xxxx/xxxx` [#71](https://github.com/hunshcn/gh-proxy/issues/71)
 
 以下都是合法输入（仅示例，文件不存在）：
 
