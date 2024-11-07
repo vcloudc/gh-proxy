@@ -10,8 +10,6 @@ github release、archive以及项目文件的加速项目，支持clone，基于
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
-![imagea272c95887343279.png](https://img.maocdn.cn/img/2021/04/24/imagea272c95887343279.png)
-
 ## 使用
 
 复制文件链接前加`https://www.969686.xyz/gh-proxy/`即可
