@@ -6,7 +6,7 @@
 
 ## 演示
 
-[https://www.969686.xyz/gh-proxy/](https://www.969686.xyz/gh-proxy/)
+[https://ghproxy.969686.xyz/](https://ghproxy.969686.xyz/)
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
